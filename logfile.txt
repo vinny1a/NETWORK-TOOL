@@ -1,0 +1,483 @@
+None
+Scanning: 8.8.8.8
+None
+Scanning began at: 2023-09-19 14:14:11
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+Scanning: 172.217.1.164
+None
+Scanning began at: 2023-09-19 14:16:12
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+
+The Open Ports are: []
+None
+
+Scanning has finished at  2023-09-19 14:16:36
+None
+--------------------------------------------------
+None
+Scanning: 172.217.1.164
+None
+Scanning began at: 2023-09-19 14:16:36
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+The result of subnet calcualtion: 
+Network address is: 192.168.2.0
+None
+Broadcast address is: 192.168.2.255
+None
+Number of hosts in subnet: 254
+None
+Wildcard mask is: 0.0.0.255 
+None
+Mask bit is: 24 
+None
+3
+3
+------------------------------------------------------------
+Command does not work
+------------------------------------------------------------
+------------------------------------------------------------
+The result of ping is: 
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=78ms TTL=53
+Reply from 8.8.8.8: bytes=32 time=78ms TTL=53
+Reply from 8.8.8.8: bytes=32 time=156ms TTL=53
+Reply from 8.8.8.8: bytes=32 time=102ms TTL=53
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 78ms, Maximum = 156ms, Average = 103ms
+
+------------------------------------------------------------
+4
+------------------------------------------------------------
+The result of traceroute is: 
+Command does not work
+------------------------------------------------------------
+------------------------------------------------------------
+The result of traceroute is: 
+Command does not work
+------------------------------------------------------------
+5
+----------------------------------------------------------------------
+The result of nslookup is 
+The result of nslookup is 
+Server:  UnKnown
+Address:  192.168.239.203
+
+Name:    dns.google
+Address:  8.8.8.8
+
+
+----------------------------------------------------------------------
+4
+------------------------------------------------------------
+The result of traceroute is: 
+Command does not work
+------------------------------------------------------------
+3
+2
+
+
+The result of subnet calcualtion: 
+Network address is: 192.168.4.0
+None
+Broadcast address is: 192.168.4.255
+None
+Number of hosts in subnet: 254
+None
+Wildcard mask is: 0.0.0.255 
+None
+Mask bit is: 24 
+None
+1
+--------------------------------------------------
+None
+Scanning: 192.168.72.1
+None
+Scanning began at: 2023-09-19 14:30:26
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+
+The Open Ports are: []
+None
+
+Scanning has finished at  2023-09-19 14:30:50
+None
+Scanning: 8.8.8.8
+None
+Scanning began at: 2023-09-20 14:21:57
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+Scanning: 172.217.1.164
+None
+Scanning began at: 2023-09-20 14:32:23
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+Port 21 is open
+None
+
+The Open Ports are: [21]
+None
+
+Scanning has finished at  2023-09-20 14:32:47
+None
+2
+
+
+The result of subnet calcualtion: 
+Network address is: 192.168.2.0
+None
+Broadcast address is: 192.168.2.255
+None
+Number of hosts in subnet: 254
+None
+Wildcard mask is: 0.0.0.255 
+None
+Mask bit is: 24 
+None
+Scanning: 172.68.54.2
+None
+Scanning began at: 2023-09-20 21:15:38
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+
+The Open Ports are: []
+None
+
+Scanning has finished at  2023-09-20 21:16:01
+None
+2
+
+
+The result of subnet calcualtion: 
+Network address is: 192.168.0.0
+None
+Broadcast address is: 192.168.0.255
+None
+Number of hosts in subnet: 254
+None
+Wildcard mask is: 0.0.0.255 
+None
+Mask bit is: 24 
+None
+4
+------------------------------------------------------------
+The result of traceroute is: 
+Command does not work
+------------------------------------------------------------
+5
+----------------------------------------------------------------------
+The result of nslookup is 
+The result of subnet calcualtion: 
+Network address is: 192.168.0.0
+None
+Broadcast address is: 192.168.0.255
+None
+Number of hosts in subnet: 254
+None
+Wildcard mask is: 0.0.0.255 
+None
+Mask bit is: 24 
+None
+1
+--------------------------------------------------
+None
+Scanning: 172.68.54.2
+None
+Scanning began at: 2023-09-21 08:11:18
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+
+The Open Ports are: []
+None
+
+Scanning has finished at  2023-09-21 08:11:40
+None
+--------------------------------------------------
+None
+Scanning: 172.68.54.2
+None
+Scanning began at: 2023-09-21 08:11:40
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+
+The Open Ports are: []
+None
+
+Scanning has finished at  2023-09-21 08:12:04
+None
+--------------------------------------------------
+None
+Scanning: 172.68.54.2
+None
+Scanning began at: 2023-09-21 08:12:04
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+
+The Open Ports are: []
+None
+
+Scanning has finished at  2023-09-21 08:12:28
+The result of subnet calcualtion: 
+Network address is: 192.168.0.0
+None
+Broadcast address is: 192.168.0.255
+None
+Number of hosts in subnet: 254
+None
+Wildcard mask is: 0.0.0.255 
+None
+Mask bit is: 24 
+None
+3
+------------------------------------------------------------
+The result of ping is: 
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=13ms TTL=118
+Reply from 8.8.8.8: bytes=32 time=12ms TTL=118
+Reply from 8.8.8.8: bytes=32 time=25ms TTL=118
+Reply from 8.8.8.8: bytes=32 time=12ms TTL=118
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 25ms, Average = 15ms
+
+------------------------------------------------------------
+4
+------------------------------------------------------------
+The result of traceroute is: 
+Command does not work
+------------------------------------------------------------
+5
+----------------------------------------------------------------------
+The result of nslookup is 
+The result of ping is: 
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=71ms TTL=56
+Reply from 8.8.8.8: bytes=32 time=31ms TTL=56
+Reply from 8.8.8.8: bytes=32 time=33ms TTL=56
+Reply from 8.8.8.8: bytes=32 time=68ms TTL=56
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 71ms, Average = 50ms
+
+------------------------------------------------------------
+2
+
+
+The result of subnet calcualtion: 
+Network address is: 192.164.0.0
+None
+Broadcast address is: 192.164.0.255
+None
+Number of hosts in subnet: 254
+None
+Wildcard mask is: 0.0.0.255 
+None
+Mask bit is: 24 
+None
+1
+--------------------------------------------------
+None
+Scanning: 172.68.54.2
+None
+Scanning began at: 2023-09-21 09:25:32
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+
+The Open Ports are: []
+None
+
+Scanning has finished at  2023-09-21 09:26:05
+None
+4
+------------------------------------------------------------
+None
+Scanning: 127.0.0.1
+None
+Scanning began at: 2023-09-21 09:57:40
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+Port 135 is open
+None
+Port 445 is open
+None
+Port 554 is open
+None
+Port 2869 is open
+None
+Port 3306 is open
+None
+Port 5040 is open
+None
+Port 10243 is open
+None
+Port 27015 is open
+None
+Port 33060 is open
+None
+Port 49664 is open
+None
+Port 49665 is open
+None
+Port 49666 is open
+None
+Port 49667 is open
+None
+Port 49668 is open
+None
+Port 49670 is open
+None
+Port 52451 is open
+None
+Port 53999 is open
+None
+Port 65001 is open
+None
+
+The Open Ports are: [135, 445, 554, 2869, 3306, 5040, 10243, 27015, 33060, 49664, 49665, 49666, 49667, 49668, 49670, 52451, 53999, 65001]
+None
+
+Scanning has finished at  2023-09-21 09:58:12
+None
+--------------------------------------------------
+None
+Scanning: 127.0.0.1
+None
+Scanning began at: 2023-09-21 09:58:12
+None
+**approximate runtime is 1 minute 30 seconds**
+None
+--------------------------------------------------
+None
+Port 135 is open
+None
+Port 445 is open
+None
+Port 554 is open
+None
+Port 2869 is open
+None
+Port 3306 is open
+None
+Port 5040 is open
+None
+Port 10243 is open
+None
+Port 27015 is open
+None
+Port 33060 is open
+None
+Port 49664 is open
+None
+Port 49665 is open
+None
+Port 49666 is open
+None
+Port 49667 is open
+None
+Port 49668 is open
+None
+Port 49670 is open
+None
+Port 52451 is open
+None
+Port 65001 is open
+None
+
+The Open Ports are: [135, 445, 554, 2869, 3306, 5040, 10243, 27015, 33060, 49664, 49665, 49666, 49667, 49668, 49670, 52451, 65001]
+None
+
+Scanning has finished at  2023-09-21 09:58:46
+None
+2
+
+
+The result of subnet calcualtion: 
+Network address is: 192.168.0.0
+None
+Broadcast address is: 192.168.0.255
+None
+Number of hosts in subnet: 254
+None
+Wildcard mask is: 0.0.0.255 
+None
+Mask bit is: 24 
+None
+3
+------------------------------------------------------------
+Command does not work
+------------------------------------------------------------
+------------------------------------------------------------
+The result of ping is: 
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=50ms TTL=115
+Reply from 8.8.8.8: bytes=32 time=38ms TTL=115
+Reply from 8.8.8.8: bytes=32 time=54ms TTL=115
+Reply from 8.8.8.8: bytes=32 time=98ms TTL=115
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 38ms, Maximum = 98ms, Average = 60ms
+
+------------------------------------------------------------
+4
+------------------------------------------------------------
+The result of traceroute is: 
+
+Tracing route to checkhost.local [127.0.0.1]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  checkhost.local [127.0.0.1] 
+
+Trace complete.
+
+------------------------------------------------------------
+------------------------------------------------------------
